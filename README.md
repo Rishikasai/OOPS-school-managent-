@@ -1,2 +1,2 @@
-# OOPS-school-managent-
+# OOPS-school-management
 simple school management system using python oops
